@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://walasassi.netlify.app/](https://walasassi.netlify.app/)
 
-- 💬 Ask me about **Mern Stack , Symfony**
-
 - 📫 How to reach me **sassiwale1999@gmail.com**
 
 - ⚡ Fun fact **Whether it’s a hobby or just something you enjoy doing , if it’s a favorite thing of yours, it says a lot about what matters to you.**
